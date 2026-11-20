@@ -15,12 +15,12 @@
 
 ---
 
-## 🏢 Organisations
+## <img src="https://api.iconify.design/lucide/building-2.svg?color=%234285F4" width="26" align="absmiddle" alt=""/> Organisations
 
 <a href="https://github.com/googlers"><img src="https://github.com/googlers.png?size=80" width="64" height="64" alt="Googlers" title="Googlers"/></a>&nbsp;
 <a href="https://github.com/record10"><img src="https://github.com/record10.png?size=80" width="64" height="64" alt="Record10" title="Record10"/></a>
 
-## 🏆 Achievements
+## <img src="https://api.iconify.design/lucide/trophy.svg?color=%23FBBC05" width="26" align="absmiddle" alt=""/> Achievements
 
 <p>
 <a href="https://github.com/Pritraj?tab=achievements&achievement=pull-shark"><img src="https://github.githubassets.com/assets/pull-shark-gold-90985540b385.png" width="92" alt="Pull Shark x4" title="Pull Shark x4"/></a>
@@ -30,30 +30,27 @@
 <a href="https://github.com/Pritraj?tab=achievements&achievement=arctic-code-vault-contributor"><img src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png" width="92" alt="Arctic Code Vault Contributor" title="Arctic Code Vault Contributor"/></a>
 </p>
 
-## 🚀 What I'm building at Record10
+## <img src="https://api.iconify.design/lucide/rocket.svg?color=%23EA4335" width="26" align="absmiddle" alt=""/> What I'm building at Record10
 
 <table>
 <tr>
-<td width="50%"><a href="https://learn.record10.com"><img src="https://github-readme-stats.vercel.app/api/pin/?username=record10&repo=learn-public&theme=tokyonight&hide_border=true" alt="Learn"/></a></td>
-<td width="50%"><a href="https://github.com/record10/record-bill-public"><img src="https://github-readme-stats.vercel.app/api/pin/?username=record10&repo=record-bill-public&theme=tokyonight&hide_border=true" alt="Record Bill"/></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/record10/record-tor-public"><img src="https://github-readme-stats.vercel.app/api/pin/?username=record10&repo=record-tor-public&theme=tokyonight&hide_border=true" alt="Record Tor"/></a></td>
-<td width="50%"><a href="https://github.com/record10/chitra-public"><img src="https://github-readme-stats.vercel.app/api/pin/?username=record10&repo=chitra-public&theme=tokyonight&hide_border=true" alt="Chitra"/></a></td>
+<td align="center" width="25%"><a href="https://learn.record10.com"><img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2334A853" width="44" alt="Learn"/><br/><b>Learn</b></a></td>
+<td align="center" width="25%"><a href="https://github.com/record10/record-bill-public"><img src="https://api.iconify.design/lucide/receipt.svg?color=%234285F4" width="44" alt="Record Bill"/><br/><b>Record Bill</b></a></td>
+<td align="center" width="25%"><a href="https://github.com/record10/record-tor-public"><img src="https://api.iconify.design/lucide/route.svg?color=%23FBBC05" width="44" alt="Record Tor"/><br/><b>Record Tor</b></a></td>
+<td align="center" width="25%"><a href="https://github.com/record10/chitra-public"><img src="https://api.iconify.design/lucide/images.svg?color=%23EA4335" width="44" alt="Chitra"/><br/><b>Chitra</b></a></td>
 </tr>
 </table>
 
-## 🛠️ Tech I work with
+## <img src="https://api.iconify.design/lucide/wrench.svg?color=%2334A853" width="26" align="absmiddle" alt=""/> Tech I work with
 
 <p>
-<img src="https://skillicons.dev/icons?i=angular,react,astro,ts,nodejs,java,rust,tauri,bazel,tailwind,python,docker,firebase,gcp,github&perline=8" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=angular,react,astro,ts,nodejs,java,rust,tauri,bazel,tailwind,python,docker,firebase,gcp,github&perline=15" alt="Tech stack"/>
 </p>
 
-## 📊 GitHub stats
+## <img src="https://api.iconify.design/lucide/activity.svg?color=%234285F4" width="26" align="absmiddle" alt=""/> GitHub activity
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=Pritraj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats"/>
-<img src="https://streak-stats.demolab.com/?user=Pritraj&theme=tokyonight&hide_border=true" height="165" alt="Streak"/>
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=Pritraj&theme=tokyonight&hide_border=true&border_radius=12" width="560" alt="Contributions and streak"/>
 </p>
 
 <div align="center">

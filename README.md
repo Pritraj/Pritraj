@@ -54,5 +54,5 @@
 </details>
 
 <p align="center">
-  <img src="assets/footer.svg?v=4" alt="$ echo thanks for stopping by" width="100%"/>
+  <img src="assets/footer.svg?v=5" alt="$ echo thanks for stopping by" width="100%"/>
 </p>

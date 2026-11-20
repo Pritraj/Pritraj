@@ -34,18 +34,35 @@
 
 <table width="100%">
 <tr>
-<td align="center" width="25%"><a href="https://learn.record10.com"><img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2334A853" width="44" alt="Learn"/><br/><b>Learn</b></a></td>
-<td align="center" width="25%"><a href="https://github.com/record10/record-bill-public"><img src="https://api.iconify.design/lucide/receipt.svg?color=%234285F4" width="44" alt="Record Bill"/><br/><b>Record Bill</b></a></td>
-<td align="center" width="25%"><a href="https://github.com/record10/record-tor-public"><img src="https://api.iconify.design/lucide/route.svg?color=%23FBBC05" width="44" alt="Record Tor"/><br/><b>Record Tor</b></a></td>
-<td align="center" width="25%"><a href="https://github.com/record10/chitra-public"><img src="https://api.iconify.design/lucide/images.svg?color=%23EA4335" width="44" alt="Chitra"/><br/><b>Chitra</b></a></td>
+<td align="center" width="25%"><a href="https://learn.record10.com"><img src="assets/learn.png" width="72" alt="Learn"/><br/><b>Learn</b></a></td>
+<td align="center" width="25%"><a href="https://github.com/record10/record-bill-public"><img src="assets/record-bill.png" width="72" alt="Record Bill"/><br/><b>Record Bill</b></a></td>
+<td align="center" width="25%"><a href="https://github.com/record10/record-tor-public"><img src="assets/record-tor.png" width="72" alt="Record Tor"/><br/><b>Record Tor</b></a></td>
+<td align="center" width="25%"><a href="https://github.com/record10/chitra-public"><img src="assets/chitra.png" width="72" alt="Chitra"/><br/><b>Chitra</b></a></td>
 </tr>
 </table>
 
 ## <img src="https://api.iconify.design/lucide/wrench.svg?color=%2334A853" width="26" align="absmiddle" alt=""/> Tech I work with
 
-<p>
-<img src="https://skillicons.dev/icons?i=angular,react,astro,ts,nodejs,java,rust,tauri,tailwind,python,docker,firebase,gcp,github&perline=15" alt="Tech stack"/>
-</p>
+<table width="100%">
+<tr>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=angular" width="52" alt="Angular"/><br/><sub><b>Angular</b></sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=astro" width="52" alt="Astro"/><br/><sub><b>Astro</b></sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=ts" width="52" alt="TS"/><br/><sub><b>TS</b></sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=nodejs" width="52" alt="Node"/><br/><sub><b>Node</b></sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=java" width="52" alt="Java"/><br/><sub><b>Java</b></sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=rust" width="52" alt="Rust"/><br/><sub><b>Rust</b></sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=tauri" width="52" alt="Tauri"/><br/><sub><b>Tauri</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=tailwind" width="52" alt="Tailwind"/><br/><sub><b>Tailwind</b></sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=python" width="52" alt="Python"/><br/><sub><b>Python</b></sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=docker" width="52" alt="Docker"/><br/><sub><b>Docker</b></sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=firebase" width="52" alt="Firebase"/><br/><sub><b>Firebase</b></sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=gcp" width="52" alt="GCP"/><br/><sub><b>GCP</b></sub></td>
+<td align="center" width="14%"><img src="https://skillicons.dev/icons?i=github" width="52" alt="GitHub"/><br/><sub><b>GitHub</b></sub></td>
+<td align="center" width="14%"><img src="assets/chrome-ext.svg" width="52" alt="Chrome Ext"/><br/><sub><b>Chrome Ext</b></sub></td>
+</tr>
+</table>
 
 ## <img src="https://api.iconify.design/lucide/activity.svg?color=%234285F4" width="26" align="absmiddle" alt=""/> GitHub activity
 

@@ -32,7 +32,7 @@
 
 ## <img src="https://api.iconify.design/lucide/rocket.svg?color=%23EA4335" width="26" align="absmiddle" alt=""/> What I'm building at Record10
 
-<table>
+<table width="100%">
 <tr>
 <td align="center" width="25%"><a href="https://learn.record10.com"><img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2334A853" width="44" alt="Learn"/><br/><b>Learn</b></a></td>
 <td align="center" width="25%"><a href="https://github.com/record10/record-bill-public"><img src="https://api.iconify.design/lucide/receipt.svg?color=%234285F4" width="44" alt="Record Bill"/><br/><b>Record Bill</b></a></td>
@@ -44,7 +44,7 @@
 ## <img src="https://api.iconify.design/lucide/wrench.svg?color=%2334A853" width="26" align="absmiddle" alt=""/> Tech I work with
 
 <p>
-<img src="https://skillicons.dev/icons?i=angular,react,astro,ts,nodejs,java,rust,tauri,bazel,tailwind,python,docker,firebase,gcp,github&perline=15" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=angular,react,astro,ts,nodejs,java,rust,tauri,tailwind,python,docker,firebase,gcp,github&perline=15" alt="Tech stack"/>
 </p>
 
 ## <img src="https://api.iconify.design/lucide/activity.svg?color=%234285F4" width="26" align="absmiddle" alt=""/> GitHub activity

@@ -34,8 +34,8 @@
 <br/><br/>
 
 <sub><b>TECH</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=angular,astro,ts,nodejs,java,rust,tauri&perline=7" width="301" alt="Angular, Astro, TypeScript, Node, Java, Rust, Tauri"/><br/>
-<img src="https://skillicons.dev/icons?i=tailwind,python,docker,firebase,gcp,github&perline=6" width="258" alt="Tailwind, Python, Docker, Firebase, GCP, GitHub"/><img src="assets/chrome-ext.svg" width="43" alt="Chrome extensions" title="Chrome extensions"/>
+<img src="https://skillicons.dev/icons?i=angular,astro,ts,nodejs,java,rust,tauri&perline=7" width="280" alt="Angular, Astro, TypeScript, Node, Java, Rust, Tauri"/><br/>
+<img src="https://skillicons.dev/icons?i=tailwind,python,docker,firebase,gcp,github&perline=6" width="240" alt="Tailwind, Python, Docker, Firebase, GCP, GitHub"/><img src="assets/chrome-ext.svg" width="40" alt="Chrome extensions" title="Chrome extensions"/>
 
 <br/><br/>
 

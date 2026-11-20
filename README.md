@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg?v=4" alt="Terminal intro: Pritam Rajput, full-stack engineer, founder of Record10; orgs googlers and record10" width="100%"/>
+  <img src="assets/hero.svg?v=5" alt="Terminal intro: Pritam Rajput, full-stack engineer, founder of Record10; orgs googlers and record10" width="560"/>
 </p>
 
 <details open>
@@ -54,5 +54,5 @@
 </details>
 
 <p align="center">
-  <img src="assets/footer.svg?v=6" alt="$ echo thanks for stopping by" width="100%"/>
+  <img src="assets/footer.svg?v=7" alt="$ echo thanks for stopping by" width="560"/>
 </p>

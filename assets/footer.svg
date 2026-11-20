@@ -6,8 +6,10 @@
 </defs>
 <g clip-path="url(#c)">
   <rect width="640" height="124" fill="#0d1117"/><rect width="640" height="124" fill="url(#grid)"/>
-  <path d="M0 48 H120 L136 48 L146 22 L158 74 L170 34 L180 48 H300 L316 48 L326 26 L338 70 L350 38 L360 48 H480 L4124 48 L506 20 L518 76 L530 36 L540 48 H640" fill="none" stroke="#ffffff" stroke-opacity=".08" stroke-width="2"/>
-  <path d="M0 48 H120 L136 48 L146 22 L158 74 L170 34 L180 48 H300 L316 48 L326 26 L338 70 L350 38 L360 48 H480 L4124 48 L506 20 L518 76 L530 36 L540 48 H640" fill="none" stroke="url(#g)" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="90 560"><animate attributeName="stroke-dashoffset" from="650" to="0" dur="3.2s" repeatCount="indefinite"/></path>
-  <text x="320.0" y="110" text-anchor="middle" fill="#8b949e" font-family="SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="19">$ echo "thanks for stopping by"<tspan fill="#34A853"> ▍</tspan></text>
-  <rect y="120" width="640" height="4" fill="url(#g)"/>
-</g></svg>
+  <path d="M0 48 H120 L136 48 L146 22 L158 74 L170 34 L180 48 H300 L316 48 L326 26 L338 70 L350 38 L360 48 H480 L494 48 L506 20 L518 76 L530 36 L540 48 H640" fill="none" stroke="#ffffff" stroke-opacity=".08" stroke-width="2"/>
+  <path d="M0 48 H120 L136 48 L146 22 L158 74 L170 34 L180 48 H300 L316 48 L326 26 L338 70 L350 38 L360 48 H480 L494 48 L506 20 L518 76 L530 36 L540 48 H640" fill="none" stroke="url(#g)" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="90 560"><animate attributeName="stroke-dashoffset" from="650" to="0" dur="3.2s" repeatCount="indefinite"/></path>
+  <text x="320.0" y="110" text-anchor="middle" fill="#8b949e" font-family="SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="16">$ echo "thanks for stopping by"<tspan fill="#34A853"> ▍</tspan></text>
+  <rect y="122" width="640" height="2" fill="url(#g)"/>
+</g>
+<rect x="0.5" y="0.5" width="639" height="123" rx="14" fill="none" stroke="#2f6b4f" stroke-width="1"/>
+</svg>

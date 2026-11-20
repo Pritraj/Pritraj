@@ -1,34 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 250" width="640" height="250" role="img" aria-label="Terminal: whoami, Pritam Rajput. Role: full-stack engineer, founder of Record10. Orgs: googlers, record10">
 <defs>
-  <linearGradient id="g" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox"><stop offset="0" stop-color="#4285F4"/><stop offset=".33" stop-color="#34A853"/><stop offset=".66" stop-color="#FBBC05"/><stop offset="1" stop-color="#EA4335"/></linearGradient>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#4285F4"/><stop offset=".33" stop-color="#34A853"/><stop offset=".66" stop-color="#FBBC05"/><stop offset="1" stop-color="#EA4335"/></linearGradient>
+  <linearGradient id="sweep" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4285F4" stop-opacity="0"/><stop offset=".5" stop-color="#4285F4" stop-opacity=".16"/><stop offset="1" stop-color="#4285F4" stop-opacity="0"/></linearGradient>
   <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#fff" opacity=".035"/></pattern>
-  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#4285F4" stroke-opacity=".07"/></pattern>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#4285F4" stroke-opacity=".08"/></pattern>
   <clipPath id="win"><rect x="8" y="8" width="624" height="234" rx="14"/></clipPath>
 </defs>
 <rect x="8" y="8" width="624" height="234" rx="14" fill="#0d1117"/>
 <g clip-path="url(#win)">
-  <rect width="640" height="250" fill="url(#grid)"/>
-  <rect width="640" height="250" fill="url(#scan)"/>
+  <rect width="640" height="250" fill="url(#grid)"/><rect width="640" height="250" fill="url(#scan)"/>
   <rect y="8" width="640" height="34" fill="#161b22"/>
   <circle cx="30" cy="25" r="6" fill="#EA4335"/><circle cx="50" cy="25" r="6" fill="#FBBC05"/><circle cx="70" cy="25" r="6" fill="#34A853"/>
   <text x="320.0" y="30" text-anchor="middle" fill="#8b949e" font-family="SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="12">pritam@record10 ~ zsh</text>
   <rect x="0" y="42" width="1280" height="3" fill="url(#g)"><animateTransform attributeName="transform" type="translate" from="-640" to="0" dur="6s" repeatCount="indefinite"/></rect>
-  
-  <text x="36" y="82" fill="#34A853" font-family="SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="15" font-weight="700">$</text>
-  <clipPath id="k1"><rect x="54" y="66" width="0" height="22"><animate attributeName="width" from="0" to="58" begin="0.5s" dur="0.50s" fill="freeze"/></rect></clipPath>
-  <text x="54" y="82" fill="#e6edf3" font-family="SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="15" clip-path="url(#k1)">whoami</text>
-  <text x="54" y="106" fill="#ffffff" font-family="SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="16" font-weight="700" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.92s" dur="0.25s" fill="freeze"/>Pritam Rajput</text>
-  
-  <text x="36" y="142" fill="#34A853" font-family="SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="15" font-weight="700">$</text>
-  <clipPath id="k2"><rect x="54" y="126" width="0" height="22"><animate attributeName="width" from="0" to="112" begin="2.6s" dur="0.54s" fill="freeze"/></rect></clipPath>
-  <text x="54" y="142" fill="#e6edf3" font-family="SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="15" clip-path="url(#k2)">cat role.txt</text>
-  <text x="54" y="166" fill="#8ab4f8" font-family="SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="16" font-weight="700" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.29s" dur="0.25s" fill="freeze"/>Full-stack engineer · Founder of Record10</text>
-  
-  <text x="36" y="202" fill="#34A853" font-family="SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="15" font-weight="700">$</text>
-  <clipPath id="k3"><rect x="54" y="186" width="0" height="22"><animate attributeName="width" from="0" to="76" begin="5.2s" dur="0.50s" fill="freeze"/></rect></clipPath>
-  <text x="54" y="202" fill="#e6edf3" font-family="SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="15" clip-path="url(#k3)">ls orgs/</text>
-  <text x="54" y="226" fill="#81c995" font-family="SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="16" font-weight="700" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="5.71s" dur="0.25s" fill="freeze"/>googlers/  record10/</text>
-  <rect x="132" y="186" width="9" height="18" fill="#34A853" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1s" begin="5.2s" repeatCount="indefinite"/></rect>
+  <text x="36" y="86" fill="#34A853" font-family="SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="15" font-weight="700">$</text><text x="54" y="86" fill="#e6edf3" font-family="SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="15">whoami</text>
+  <text x="54" y="112" fill="#ffffff" font-family="SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="20" font-weight="700">Pritam Rajput</text>
+  <text x="36" y="146" fill="#34A853" font-family="SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="15" font-weight="700">$</text><text x="54" y="146" fill="#e6edf3" font-family="SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="15">cat role.txt</text>
+  <text x="54" y="172" fill="#8ab4f8" font-family="SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="16" font-weight="700">Full-stack engineer · Founder of Record10</text>
+  <text x="36" y="206" fill="#34A853" font-family="SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="15" font-weight="700">$</text><text x="54" y="206" fill="#e6edf3" font-family="SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="15">ls orgs/</text>
+  <text x="54" y="228" fill="#81c995" font-family="SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="16" font-weight="700">googlers/  record10/ <tspan fill="#34A853">▍<animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></tspan></text>
+  <rect x="0" y="-60" width="640" height="60" fill="url(#sweep)"><animateTransform attributeName="transform" type="translate" from="0 0" to="0 310" dur="4.5s" repeatCount="indefinite"/></rect>
 </g>
-<rect x="8" y="8" width="624" height="234" rx="14" fill="none" stroke="url(#g)" stroke-width="2" stroke-opacity=".85"/>
+<rect x="8" y="8" width="624" height="234" rx="14" fill="none" stroke="url(#g)" stroke-width="2" stroke-opacity=".9"/>
+<rect x="8" y="8" width="624" height="234" rx="14" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-opacity=".85" stroke-dasharray="46 1000" pathLength="1000"><animate attributeName="stroke-dashoffset" from="0" to="-1046" dur="5s" repeatCount="indefinite"/></rect>
 </svg>

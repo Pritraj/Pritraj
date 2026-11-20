@@ -34,10 +34,10 @@
 
 <table width="100%">
 <tr>
-<td align="center" width="25%"><a href="https://learn.record10.com"><img src="assets/learn.png" width="72" alt="Learn"/><br/><b>Learn</b></a></td>
-<td align="center" width="25%"><a href="https://github.com/record10/record-bill-public"><img src="assets/record-bill.png" width="72" alt="Record Bill"/><br/><b>Record Bill</b></a></td>
-<td align="center" width="25%"><a href="https://github.com/record10/record-tor-public"><img src="assets/record-tor.png" width="72" alt="Record Tor"/><br/><b>Record Tor</b></a></td>
-<td align="center" width="25%"><a href="https://github.com/record10/chitra-public"><img src="assets/chitra.png" width="72" alt="Chitra"/><br/><b>Chitra</b></a></td>
+<td align="center" width="25%" valign="top"><a href="https://learn.record10.com"><img src="assets/learn.png" width="96" alt="Learn"/><br/><b>Learn</b></a></td>
+<td align="center" width="25%" valign="top"><a href="https://github.com/record10/record-bill-public"><img src="assets/record-bill.png" width="96" alt="Record Bill"/><br/><b>Record&nbsp;Bill</b></a></td>
+<td align="center" width="25%" valign="top"><a href="https://github.com/record10/record-tor-public"><img src="assets/record-tor.png" width="96" alt="Record Tor"/><br/><b>Record&nbsp;Tor</b></a></td>
+<td align="center" width="25%" valign="top"><a href="https://github.com/record10/chitra-public"><img src="assets/chitra.png" width="96" alt="Chitra"/><br/><b>Chitra</b></a></td>
 </tr>
 </table>
 
@@ -60,7 +60,7 @@
 <td align="center" width="14%"><img src="https://skillicons.dev/icons?i=firebase" width="52" alt="Firebase"/><br/><sub><b>Firebase</b></sub></td>
 <td align="center" width="14%"><img src="https://skillicons.dev/icons?i=gcp" width="52" alt="GCP"/><br/><sub><b>GCP</b></sub></td>
 <td align="center" width="14%"><img src="https://skillicons.dev/icons?i=github" width="52" alt="GitHub"/><br/><sub><b>GitHub</b></sub></td>
-<td align="center" width="14%"><img src="assets/chrome-ext.svg" width="52" alt="Chrome Ext"/><br/><sub><b>Chrome Ext</b></sub></td>
+<td align="center" width="14%"><img src="assets/chrome-ext.svg" width="52" alt="Chrome Ext"/><br/><sub><b>Chrome</b></sub></td>
 </tr>
 </table>
 

@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="Terminal intro: Pritam Rajput, full-stack engineer, founder of Record10; orgs googlers and record10" width="100%"/>
+  <img src="assets/hero.svg?v=4" alt="Terminal intro: Pritam Rajput, full-stack engineer, founder of Record10; orgs googlers and record10" width="100%"/>
 </p>
 
 <details open>
 <summary><img src="https://api.iconify.design/lucide/building-2.svg?color=%234285F4" width="20" align="absmiddle" alt=""/>&nbsp;<b>Organisations</b></summary>
 <br/>
-<a href="https://github.com/googlers"><img src="https://github.com/googlers.png?size=64" width="28" height="28" align="absmiddle" alt=""/></a>&nbsp;&nbsp;<a href="https://github.com/googlers"><b>Googlers</b></a> <sub>&nbsp;org member</sub><br/>
+<a href="https://github.com/googlers"><img src="https://github.com/googlers.png?size=64" width="28" height="28" align="absmiddle" alt=""/></a>&nbsp;&nbsp;<a href="https://github.com/googlers"><b>Googlers</b></a> <sub>&nbsp;org member</sub><br/><sub>&nbsp;</sub><br/>
 <a href="https://github.com/record10"><img src="https://github.com/record10.png?size=64" width="28" height="28" align="absmiddle" alt=""/></a>&nbsp;&nbsp;<a href="https://github.com/record10"><b>Record10</b></a> <sub>&nbsp;founder · <a href="https://record10.com">record10.com</a></sub>
 <br/><br/>
 </details>
@@ -13,9 +13,12 @@
 <details open>
 <summary><img src="https://api.iconify.design/lucide/rocket.svg?color=%23EA4335" width="20" align="absmiddle" alt=""/>&nbsp;<b>Building at Record10</b></summary>
 <br/>
-<a href="https://learn.record10.com"><img src="assets/learn.png" width="28" align="absmiddle" alt=""/></a>&nbsp;&nbsp;<a href="https://learn.record10.com"><b>Learn</b></a><br/>
-<a href="https://github.com/record10/record-bill-public"><img src="assets/record-bill.png" width="28" align="absmiddle" alt=""/></a>&nbsp;&nbsp;<a href="https://github.com/record10/record-bill-public"><b>Record Bill</b></a><br/>
-<a href="https://github.com/record10/record-tor-public"><img src="assets/record-tor.png" width="28" align="absmiddle" alt=""/></a>&nbsp;&nbsp;<a href="https://github.com/record10/record-tor-public"><b>Record Tor</b></a><br/>
+<a href="https://learn.record10.com"><img src="assets/learn.png" width="28" align="absmiddle" alt=""/></a>&nbsp;&nbsp;<a href="https://learn.record10.com"><b>Learn</b></a>
+<br/><sub>&nbsp;</sub><br/>
+<a href="https://github.com/record10/record-bill-public"><img src="assets/record-bill.png" width="28" align="absmiddle" alt=""/></a>&nbsp;&nbsp;<a href="https://github.com/record10/record-bill-public"><b>Record Bill</b></a>
+<br/><sub>&nbsp;</sub><br/>
+<a href="https://github.com/record10/record-tor-public"><img src="assets/record-tor.png" width="28" align="absmiddle" alt=""/></a>&nbsp;&nbsp;<a href="https://github.com/record10/record-tor-public"><b>Record Tor</b></a>
+<br/><sub>&nbsp;</sub><br/>
 <a href="https://github.com/record10/chitra-public"><img src="assets/chitra.png" width="28" align="absmiddle" alt=""/></a>&nbsp;&nbsp;<a href="https://github.com/record10/chitra-public"><b>Chitra</b></a>
 <br/><br/>
 </details>
@@ -51,5 +54,5 @@
 </details>
 
 <p align="center">
-  <img src="assets/footer.svg" alt="$ echo thanks for stopping by" width="100%"/>
+  <img src="assets/footer.svg?v=4" alt="$ echo thanks for stopping by" width="100%"/>
 </p>

@@ -39,7 +39,7 @@
 <p><img src="https://api.iconify.design/lucide/activity.svg?color=%2338BDF8" width="20" align="absmiddle" alt=""/>&nbsp;<b>GitHub activity</b></p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Pritraj&theme=tokyonight&hide_border=false&stroke=2f6b4f&border_radius=12&card_width=850" width="100%" alt="Contributions and streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Pritraj&theme=tokyonight&hide_border=false&stroke=2f6b4f&border_radius=14&background=0d1117&card_width=850" width="100%" alt="Contributions and streak"/>
 </p>
 
 <details>

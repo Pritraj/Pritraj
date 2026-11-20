@@ -32,8 +32,12 @@
   <img src="https://streak-stats.demolab.com/?user=Pritraj&theme=tokyonight&hide_border=true&border_radius=12" width="420" alt="Contributions and streak"/>
 </p>
 
+<p align="center">
+  <sub><b>BADGES</b></sub>&nbsp;&nbsp;<img src="https://github.githubassets.com/assets/pull-shark-gold-90985540b385.png" width="22" alt="Pull Shark ×4" title="Pull Shark ×4"/> <img src="https://github.githubassets.com/assets/pair-extraordinaire-silver-a0b2b472348c.png" width="22" alt="Pair Extraordinaire ×3" title="Pair Extraordinaire ×3"/> <img src="https://github.githubassets.com/assets/quickdraw-default--light-medium-5450fadcbe37.png" width="22" alt="Quickdraw" title="Quickdraw"/> <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="22" alt="YOLO" title="YOLO"/> <img src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png" width="22" alt="Arctic Code Vault Contributor" title="Arctic Code Vault Contributor"/>
+</p>
+
 <details>
-<summary><img src="https://api.iconify.design/lucide/trophy.svg?color=%23FBBC05" width="20" align="absmiddle" alt=""/>&nbsp;<b>Achievements</b> &nbsp; <img src="https://github.githubassets.com/assets/pull-shark-gold-90985540b385.png" width="24" alt="Pull Shark ×4" title="Pull Shark ×4"/> <img src="https://github.githubassets.com/assets/pair-extraordinaire-silver-a0b2b472348c.png" width="24" alt="Pair Extraordinaire ×3" title="Pair Extraordinaire ×3"/> <img src="https://github.githubassets.com/assets/quickdraw-default--light-medium-5450fadcbe37.png" width="24" alt="Quickdraw" title="Quickdraw"/> <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="24" alt="YOLO" title="YOLO"/> <img src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png" width="24" alt="Arctic Code Vault Contributor" title="Arctic Code Vault Contributor"/> </summary>
+<summary><sub>What the badges mean</sub></summary>
 <br/>
 <table>
 <tr><td width="48" align="center"><img src="https://github.githubassets.com/assets/pull-shark-gold-90985540b385.png" width="36" alt=""/></td><td><b>Pull Shark ×4</b><br/><sub>Pull requests merged, four tiers up.</sub></td></tr>

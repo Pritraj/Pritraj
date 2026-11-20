@@ -34,10 +34,10 @@
 
 <table width="100%">
 <tr>
-<td align="center" width="25%" valign="top"><a href="https://learn.record10.com"><img src="assets/learn.png" width="96" alt="Learn"/><br/><b>Learn</b></a></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/record10/record-bill-public"><img src="assets/record-bill.png" width="96" alt="Record Bill"/><br/><b>Record&nbsp;Bill</b></a></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/record10/record-tor-public"><img src="assets/record-tor.png" width="96" alt="Record Tor"/><br/><b>Record&nbsp;Tor</b></a></td>
-<td align="center" width="25%" valign="top"><a href="https://github.com/record10/chitra-public"><img src="assets/chitra.png" width="96" alt="Chitra"/><br/><b>Chitra</b></a></td>
+<td align="center" width="25%" valign="top"><a href="https://learn.record10.com"><img src="assets/learn.png" width="96" alt="Learn"/><br/><sub><b>Learn</b></sub></a></td>
+<td align="center" width="25%" valign="top"><a href="https://github.com/record10/record-bill-public"><img src="assets/record-bill.png" width="96" alt="Record Bill"/><br/><sub><b>Record&nbsp;Bill</b></sub></a></td>
+<td align="center" width="25%" valign="top"><a href="https://github.com/record10/record-tor-public"><img src="assets/record-tor.png" width="96" alt="Record Tor"/><br/><sub><b>Record&nbsp;Tor</b></sub></a></td>
+<td align="center" width="25%" valign="top"><a href="https://github.com/record10/chitra-public"><img src="assets/chitra.png" width="96" alt="Chitra"/><br/><sub><b>Chitra</b></sub></a></td>
 </tr>
 </table>
 

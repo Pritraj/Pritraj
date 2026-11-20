@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 124" width="640" height="124" role="img" aria-label="Thanks for stopping by">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 124" width="850" height="124" role="img" aria-label="Thanks for stopping by">
 <defs>
   <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#4285F4"/><stop offset=".33" stop-color="#34A853"/><stop offset=".66" stop-color="#FBBC05"/><stop offset="1" stop-color="#EA4335"/></linearGradient>
   <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#4285F4" stroke-opacity=".08"/></pattern>
-  <clipPath id="c"><rect width="640" height="124" rx="14"/></clipPath>
+  <clipPath id="c"><rect width="850" height="124" rx="14"/></clipPath>
 </defs>
 <g clip-path="url(#c)">
-  <rect width="640" height="124" fill="#0d1117"/><rect width="640" height="124" fill="url(#grid)"/>
-  <path d="M0 48 H120 L136 48 L146 22 L158 74 L170 34 L180 48 H300 L316 48 L326 26 L338 70 L350 38 L360 48 H480 L494 48 L506 20 L518 76 L530 36 L540 48 H640" fill="none" stroke="#ffffff" stroke-opacity=".08" stroke-width="2"/>
-  <path d="M0 48 H120 L136 48 L146 22 L158 74 L170 34 L180 48 H300 L316 48 L326 26 L338 70 L350 38 L360 48 H480 L494 48 L506 20 L518 76 L530 36 L540 48 H640" fill="none" stroke="url(#g)" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="90 560"><animate attributeName="stroke-dashoffset" from="650" to="0" dur="3.2s" repeatCount="indefinite"/></path>
-  <text x="320.0" y="110" text-anchor="middle" fill="#8b949e" font-family="SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="16">$ echo "thanks for stopping by"<tspan fill="#34A853"> ▍</tspan></text>
-  <rect y="122" width="640" height="2" fill="url(#g)"/>
+  <rect width="850" height="124" fill="#0d1117"/><rect width="850" height="124" fill="url(#grid)"/>
+  <path d="M0 48 H150 L166 48 L176 22 L188 74 L200 34 L210 48 H390 L406 48 L416 26 L428 70 L440 38 L450 48 H640 L656 48 L666 20 L678 76 L690 36 L700 48 H850" fill="none" stroke="#ffffff" stroke-opacity=".08" stroke-width="2"/>
+  <path d="M0 48 H150 L166 48 L176 22 L188 74 L200 34 L210 48 H390 L406 48 L416 26 L428 70 L440 38 L450 48 H640 L656 48 L666 20 L678 76 L690 36 L700 48 H850" fill="none" stroke="url(#g)" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="90 760"><animate attributeName="stroke-dashoffset" from="850" to="0" dur="3.6s" repeatCount="indefinite"/></path>
+  <text x="425" y="110" text-anchor="middle" fill="#8b949e" font-family="SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="16">$ echo "thanks for stopping by"<tspan fill="#34A853"> ▍</tspan></text>
+  <rect y="122" width="850" height="2" fill="url(#g)"/>
 </g>
-<rect x="0.5" y="0.5" width="639" height="123" rx="14" fill="none" stroke="#2f6b4f" stroke-width="1"/>
+<rect x="0.5" y="0.5" width="849" height="123" rx="14" fill="none" stroke="#2f6b4f" stroke-width="1"/>
 </svg>

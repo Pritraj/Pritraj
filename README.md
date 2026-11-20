@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg?v=5" alt="Terminal intro: Pritam Rajput, full-stack engineer, founder of Record10; orgs googlers and record10" width="560"/>
+  <img src="assets/hero.svg?v=6" alt="Terminal intro: Pritam Rajput, full-stack engineer, founder of Record10; orgs googlers and record10" width="100%"/>
 </p>
 
 <details open>
@@ -27,13 +27,12 @@
 <summary><img src="https://api.iconify.design/lucide/terminal.svg?color=%2334A853" width="20" align="absmiddle" alt=""/>&nbsp;<b>Tech I work with</b></summary>
 <br/>
 
-**Frontend** &nbsp; `Angular` `Astro` `Tailwind CSS` `Chrome extensions`
-
-**Languages** &nbsp; `TypeScript` `Java` `Rust` `Python`
-
-**Backend &amp; cloud** &nbsp; `Node.js` `Firebase` `Google Cloud` `Docker`
-
-**Desktop &amp; mobile** &nbsp; `Tauri`
+<p><b>Frontend</b> &nbsp; <img src="https://api.iconify.design/simple-icons/angular.svg?color=%23DD0031" height="16" align="absmiddle" alt=""/>&nbsp;Angular &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/astro.svg?color=%23BC52EE" height="16" align="absmiddle" alt=""/>&nbsp;Astro &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/tailwindcss.svg?color=%2306B6D4" height="16" align="absmiddle" alt=""/>&nbsp;Tailwind CSS &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/bootstrap.svg?color=%237952B3" height="16" align="absmiddle" alt=""/>&nbsp;Bootstrap &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/googlechrome.svg?color=%234285F4" height="16" align="absmiddle" alt=""/>&nbsp;Chrome extensions</p>
+<p><b>Languages</b> &nbsp; <img src="https://api.iconify.design/simple-icons/typescript.svg?color=%233178C6" height="16" align="absmiddle" alt=""/>&nbsp;TypeScript &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/openjdk.svg?color=%23ED8B00" height="16" align="absmiddle" alt=""/>&nbsp;Java &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/rust.svg?color=%23DEA584" height="16" align="absmiddle" alt=""/>&nbsp;Rust &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/python.svg?color=%233776AB" height="16" align="absmiddle" alt=""/>&nbsp;Python</p>
+<p><b>Backend &amp; cloud</b> &nbsp; <img src="https://api.iconify.design/simple-icons/nodedotjs.svg?color=%235FA04E" height="16" align="absmiddle" alt=""/>&nbsp;Node.js &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/firebase.svg?color=%23FFCA28" height="16" align="absmiddle" alt=""/>&nbsp;Firebase &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/googlecloud.svg?color=%234285F4" height="16" align="absmiddle" alt=""/>&nbsp;Google Cloud &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/docker.svg?color=%232496ED" height="16" align="absmiddle" alt=""/>&nbsp;Docker</p>
+<p><b>Databases</b> &nbsp; <img src="https://api.iconify.design/simple-icons/postgresql.svg?color=%234169E1" height="16" align="absmiddle" alt=""/>&nbsp;PostgreSQL &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/sqlite.svg?color=%2344A3D6" height="16" align="absmiddle" alt=""/>&nbsp;SQLite &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/mongodb.svg?color=%2347A248" height="16" align="absmiddle" alt=""/>&nbsp;MongoDB</p>
+<p><b>Desktop &amp; mobile</b> &nbsp; <img src="https://api.iconify.design/simple-icons/tauri.svg?color=%23FFC131" height="16" align="absmiddle" alt=""/>&nbsp;Tauri &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/electron.svg?color=%2347848F" height="16" align="absmiddle" alt=""/>&nbsp;Electron</p>
+<p><b>AI</b> &nbsp; <img src="https://api.iconify.design/simple-icons/claude.svg?color=%23D97757" height="16" align="absmiddle" alt=""/>&nbsp;Claude &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/googlegemini.svg?color=%238E75B2" height="16" align="absmiddle" alt=""/>&nbsp;Gemini</p>
 
 </details>
 
@@ -54,5 +53,5 @@
 </details>
 
 <p align="center">
-  <img src="assets/footer.svg?v=7" alt="$ echo thanks for stopping by" width="560"/>
+  <img src="assets/footer.svg?v=8" alt="$ echo thanks for stopping by" width="100%"/>
 </p>

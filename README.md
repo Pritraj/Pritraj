@@ -2,6 +2,10 @@
   <img src="assets/hero.svg?v=7" alt="Terminal intro: Pritam Rajput, full-stack engineer, founder of Record10; orgs googlers and record10" width="100%"/>
 </p>
 
+<p align="center">
+<a href="https://pritam.record10.com"><img src="https://api.iconify.design/lucide/globe.svg?color=%2338BDF8" width="20" align="absmiddle" alt=""/>&nbsp;<b>pritam.record10.com</b></a>
+</p>
+
 <details open>
 <summary><img src="https://api.iconify.design/lucide/building-2.svg?color=%234285F4" width="20" align="absmiddle" alt=""/>&nbsp;<b>Organisations</b></summary>
 <br/><br/>

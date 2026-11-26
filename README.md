@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<a href="https://pritam.record10.com"><img src="https://api.iconify.design/lucide/globe.svg?color=%2338BDF8" width="20" align="absmiddle" alt=""/>&nbsp;<b>pritam.record10.com</b></a>
+<a href="https://pritam.record10.com"><img src="assets/site-link.svg?v=1" alt="Visit the portfolio: pritam.record10.com" width="440"/></a>
 </p>
 
 <details open>
